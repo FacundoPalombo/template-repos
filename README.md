@@ -16,6 +16,7 @@
  - [Quick reference](#quick-reference-)
  - [Otras tareas](#otras-tareas-)
  - [Despliegue](#despliegue-)
+ - [Versionado de API](#versionado-)
 
 ## Stack tecnológico 🛠️
 
@@ -186,3 +187,5 @@ Para desplegar a desa, qa o prod debemos ejecutar el job de jenkins TP_ENCOLADOR
 - Tag: `El tag que obtuviste`
 - TagContent_QC_Jira: `TUPROYECTO 123`  <- Este es el id de la historia de jira relacionada, no debe usarse guiones ni corchetes.
 - UseJSON: `true|false` *Opcional* 
+## Versionado 📌
+Para el versionado de las apis (...)
