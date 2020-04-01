@@ -1,4 +1,4 @@
-<article align="center"><h1>MS - Documents</h1></article>
+<article align="center"><h1 align="center">MS - Documents</h1></article>
 
 ![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/alert_status)
 ![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/coverage)
