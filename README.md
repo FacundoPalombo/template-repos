@@ -191,6 +191,6 @@ Para desplegar a desa, qa o prod debemos ejecutar el job de jenkins TP_ENCOLADOR
 Para el versionado de apis tenemos los siguientes releases con sus respectivas referencias en cada link:
 - ~~v0: [ms/api/v0/users](/version/0)~~ _deprecated_
 - v1: [ms/api/v1/users](/version/1)
-**- v2: [ms/api/v1/users](/version/2)** *LTS*
+**- v2**: [ms/api/v1/users](/version/2) *LTS*
 - v3: [ms/api/v1/users](/version/3)
 - v4: [ms/api/v1/users](/version/4) *Current*
