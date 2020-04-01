@@ -1,14 +1,13 @@
-
 <article align="center"><h1>MS - Documents</h1></article>
 
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/alert_status)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/coverage)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/bugs)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/code_smells)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/sqale_rating)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/reliability_rating)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/security_rating)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/vulnerabilities)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/alert_status)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/coverage)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/bugs)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/code_smells)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/sqale_rating)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/reliability_rating)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/security_rating)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/vulnerabilities)
 
 ## Secciones 📜
 
@@ -53,11 +52,11 @@ El primer paso es registrarte en [github](https://github.com/) y solicitar asoci
 Luego clonar el repositorio por HTTPS.
 
 ```bash
-$ git clone https://github.com/TodoPago/$este-repo
+$ git clone https://github.com/TodoPago/portal-web-app
 ```
 
 ```bash
-$ cd $este-repo
+$ cd portal-web-app
 ```
 
 **Note:** Recuerda reemplazar las configuraciones de git en tu repositorio con el usuario y email que estás utilizando en github. Para ello ejecutar:
