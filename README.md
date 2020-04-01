@@ -11,11 +11,11 @@
 
 ## Secciones 📜
 
- - [Instalación](#Instalación)
- - [Desarrollando la API](#desarrollando-apis)
- - [Quick reference](#quick-reference)
- - [Otras tareas](#otras-tareas)
- - [Despliegue](#despliegue)
+ - [Instalación](#instalación-)
+ - [Desarrollando la API](#desarrollando-la-api-)
+ - [Quick reference](#quick-reference-)
+ - [Otras tareas](#otras-tareas-)
+ - [Despliegue](#despliegue-)
 
 ## Stack tecnológico 🛠️
 
