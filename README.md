@@ -1,13 +1,13 @@
-<article align="center"><h1 align="center">MS - Documents</h1></article>
+<article align="center"><h1 align="center">MS - $este-repo</h1></article>
 
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/alert_status)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/coverage)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/bugs)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/code_smells)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/sqale_rating)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/reliability_rating)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/security_rating)
-![Build Status](http://sonar-badges.prisma.redbee.io/sonar/portal-web-app/vulnerabilities)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/alert_status)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/coverage)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/bugs)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/code_smells)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/sqale_rating)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/reliability_rating)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/security_rating)
+![Build Status](http://sonar-badges.prisma.redbee.io/sonar/$este-repo/vulnerabilities)
 
 ## Secciones 📜
 
@@ -45,7 +45,7 @@ $ git --version
 ```
 ### GitHub :octocat:
 
-El primer paso es registrarte en [github](https://github.com/) y solicitar asociarte a la organización TodoPago. Podrás encontrar más info de como contribuir en [éste link](#contributing). También podrás ver nuestra lista de [contribuyentes](/contributors)
+El primer paso es registrarte en [github](https://github.com/) y solicitar asociarte a la organización TodoPago. Podrás encontrar más info de como contribuir en [éste link](/contributing). También podrás ver nuestra lista de [contribuyentes](/contributors)
 
 
 ### Clonando el repositorio  🧙
@@ -53,7 +53,7 @@ El primer paso es registrarte en [github](https://github.com/) y solicitar asoci
 Luego clonar el repositorio por HTTPS.
 
 ```bash
-$ git clone https://github.com/TodoPago/portal-web-app
+$ git clone https://github.com/TodoPago/$este-repo
 ```
 
 ```bash
