@@ -45,7 +45,7 @@ $ git --version
 ```
 ### GitHub :octocat:
 
-El primer paso es registrarte en [github](https://github.com/) y solicitar asociarte a la organización TodoPago. Podrás encontrar más info de como contribuir en [éste link](/CONTRIBUTING.md). También podrás ver nuestra lista de [contribuyentes](/contributors)
+El primer paso es registrarte en [github](https://github.com/) y solicitar asociarte a la organización TodoPago. Podrás encontrar más info de como contribuir en [éste link](/CONTRIBUTING.md). También podrás ver nuestra lista de [contribuyentes](./contributors)
 
 
 ### Clonando el repositorio  🧙
