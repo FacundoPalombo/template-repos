@@ -24,3 +24,6 @@ https://cs.uns.edu.ar/~ldm/mypage/data/oc/info/guia_para_la_documentacion_de_pro
 _Una buena referencia de un formato de documentación de api_
 
 https://developer.twitter.com/en/docs/tweets/search/api-reference 
+
+***Crear diagramas con markdown en github***
+https://mermaid-js.github.io/mermaid/#/?id=new-diagrams-in-84
