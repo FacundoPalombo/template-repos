@@ -22,11 +22,13 @@
 
 Los frameworks y librerías que utilizaremos son:
 
- - [Rails 3.2](http://rubyonrails.org/) - Web Framework
- - [Grape](http://rdoc.info/github/intridea/grape) - API endpoints
- - [Devise](https://github.com/plataformatec/devise) - Authentication
- - [RailsAdmin](https://github.com/sferik/rails_admin) - Database dashboard
- - [MiniTest](https://github.com/seattlerb/minitest) - Unit testing
+ - [Java 11](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - Java
+ - [Gradle](https://gradle.org/) - Build Tool
+ - [Spring Boot Framework](https://spring.io/) - Framework
+ - [Swagger 2.9.2](https://swagger.io/) - Document
+ - [Spock Framework](http://spockframework.org/) - Unit testing
+ - [Jacoco](https://www.jacoco.org/) - Test Reporting
+ 
 
 ## Instalación 🔧
 
